@@ -1,0 +1,21 @@
+import requests
+import json
+
+
+
+Access_token = input("Enter access token here: ")
+room = input("Enter roomId: ")
+EMail = input("Enter Email Add: ")
+
+
+
+headers = {"Authorization":"Bearer {}".format(B_token),
+           "Content-Type": "application/json"}
+
+
+params={"roomId":room, "personEmail":EMail}
+perams={"roomId":room, "markdown":"I love API"}
+rooms = requests.post ("https://webexapis.com/v1/memberships", headers=headers, json=params)
+messages = requests.post("https://webexapis.com/v1/messages", headers=headers, json=perams)
+
+print(rooms.json())
