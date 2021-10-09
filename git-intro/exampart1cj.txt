@@ -1,0 +1,166 @@
+{
+    "id": "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL1JPT00vN2M2N2JkMTAtMjg3OS0xMWVjLTg2ODUtNDU0NGZhMjA3ODEy",
+    "title": "Comp6 API",
+    "type": "group",
+    "isLocked": false,
+    "lastActivity": "2021-10-08T20:51:18.497Z",
+    "creatorId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS85M2Y2NmFlOC0xMjU4LTQxZjgtYjIzMS1jM2UyOWFjMzNiYzI",
+    "created": "2021-10-08T20:51:18.497Z",
+    "ownerId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi9lMDc5NmU0My05MzQxLTQwZGUtODdlYS1iZmM5MmQ5MDI4YTk"
+}
+{
+    "id": "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL01FTUJFUlNISVAvNzU0MTk5YzAtMTlmZi00NDg0LTk2ZTktYTIzYWZkZTE5OWU3OjdjNjdiZDEwLTI4NzktMTFlYy04Njg1LTQ1NDRmYTIwNzgxMg",
+    "roomId": "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL1JPT00vN2M2N2JkMTAtMjg3OS0xMWVjLTg2ODUtNDU0NGZhMjA3ODEy",
+    "roomType": "group",
+    "personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS83NTQxOTljMC0xOWZmLTQ0ODQtOTZlOS1hMjNhZmRlMTk5ZTc",
+    "personEmail": "jeishield77@gmail.com",
+    "personDisplayName": "Jeishield Brillo",
+    "personOrgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi9mZmU1MGI5Ny0yYjRhLTQ5NjUtODM3My05ODIyZWFmZWRkZmQ",
+    "isModerator": false,
+    "isMonitor": false,
+    "isRoomHidden": false,
+    "created": "2021-10-08T21:09:57.881Z"
+}
+{
+    "id": "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL01FTUJFUlNISVAvZjAyZjM2NzYtMDM3ZS00NDAzLThiNjQtY2NhMzM2YjQ2MWY4OjdjNjdiZDEwLTI4NzktMTFlYy04Njg1LTQ1NDRmYTIwNzgxMg",
+    "roomId": "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL1JPT00vN2M2N2JkMTAtMjg3OS0xMWVjLTg2ODUtNDU0NGZhMjA3ODEy",
+    "roomType": "group",
+    "personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS9mMDJmMzY3Ni0wMzdlLTQ0MDMtOGI2NC1jY2EzMzZiNDYxZjg",
+    "personEmail": "HersheyCle@gmail.com",
+    "personDisplayName": "Haidee Paulo",
+    "personOrgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi9jMzg4MzlhZS1lZTU5LTRlOTAtOWMxNy0wMjE4YjE2YjA0M2Y",
+    "isModerator": false,
+    "isMonitor": false,
+    "isRoomHidden": false,
+    "created": "2021-10-08T21:11:14.186Z"
+}
+{
+    "id": "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL01FTUJFUlNISVAvMjRmMzcyMzktMWUzNy00ZTg4LTk0MDAtNzRkNTBlMzBjNDIxOjdjNjdiZDEwLTI4NzktMTFlYy04Njg1LTQ1NDRmYTIwNzgxMg",
+    "roomId": "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL1JPT00vN2M2N2JkMTAtMjg3OS0xMWVjLTg2ODUtNDU0NGZhMjA3ODEy",
+    "roomType": "group",
+    "personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS8yNGYzNzIzOS0xZTM3LTRlODgtOTQwMC03NGQ1MGUzMGM0MjE",
+    "personEmail": "mymangie24@gmail.com",
+    "personDisplayName": "Marylle Mhay",
+    "personOrgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi8yYmZmYWY1Yi0xZDY3LTQzNzQtOWFjNy0zY2UwMDJiMDdjM2I",
+    "isModerator": false,
+    "isMonitor": false,
+    "isRoomHidden": false,
+    "created": "2021-10-08T21:11:28.896Z"
+}
+{
+    "id": "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL01FTUJFUlNISVAvYTFlYTk3NTgtZGU1MS00YTNiLTg1MzQtMWQ1ZTljMTU3ODFlOjdjNjdiZDEwLTI4NzktMTFlYy04Njg1LTQ1NDRmYTIwNzgxMg",
+    "roomId": "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL1JPT00vN2M2N2JkMTAtMjg3OS0xMWVjLTg2ODUtNDU0NGZhMjA3ODEy",
+    "roomType": "group",
+    "personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS9hMWVhOTc1OC1kZTUxLTRhM2ItODUzNC0xZDVlOWMxNTc4MWU",
+    "personEmail": "acunazhaniaa@gmail.com",
+    "personDisplayName": "Zhania Acuna",
+    "personOrgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi9mZmU1MGI5Ny0yYjRhLTQ5NjUtODM3My05ODIyZWFmZWRkZmQ",
+    "isModerator": false,
+    "isMonitor": false,
+    "isRoomHidden": false,
+    "created": "2021-10-08T21:11:44.168Z"
+}
+{
+    "id": "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL01FTUJFUlNISVAvODQ0OTUzYzYtMTAyYy00YTMwLTk4ZTgtZDQ3MGY4ZGY1M2NiOjdjNjdiZDEwLTI4NzktMTFlYy04Njg1LTQ1NDRmYTIwNzgxMg",
+    "roomId": "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL1JPT00vN2M2N2JkMTAtMjg3OS0xMWVjLTg2ODUtNDU0NGZhMjA3ODEy",
+    "roomType": "group",
+    "personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS84NDQ5NTNjNi0xMDJjLTRhMzAtOThlOC1kNDcwZjhkZjUzY2I",
+    "personEmail": "calanday04@gmail.com",
+    "personDisplayName": "Jack calanday",
+    "personOrgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi81YzAzMDUwYi03Y2VlLTQyZDAtODdkZS00ZGExYzM0Njk1NzA",
+    "isModerator": false,
+    "isMonitor": false,
+    "isRoomHidden": false,
+    "created": "2021-10-08T21:12:06.735Z"
+}
+
+{
+    "id": "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL01FU1NBR0UvMmMxMDFmYzAtMjg3ZC0xMWVjLWE5YTItYjkxNWNkMmVjYTg2",
+    "roomId": "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL1JPT00vN2M2N2JkMTAtMjg3OS0xMWVjLTg2ODUtNDU0NGZhMjA3ODEy",
+    "roomType": "group",
+    "text": "Sana pumasa",
+    "personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS85M2Y2NmFlOC0xMjU4LTQxZjgtYjIzMS1jM2UyOWFjMzNiYzI",
+    "personEmail": "ceejaynimsaj@gmail.com",
+    "created": "2021-10-08T21:17:41.692Z"
+}
+{
+  "id": "4bd606d24843476fb80ec3ca5b229efd",
+  "meetingNumber": "26408776209",
+  "title": "Comp6",
+  "agenda": "Comp6 Examination",
+  "password": "jmRkGdrT733",
+  "phoneAndVideoSystemPassword": "56754378",
+  "meetingType": "meetingSeries",
+  "state": "active",
+  "timezone": "UTC",
+  "start": "2021-10-22T08:00:00Z",
+  "end": "2021-10-22T15:00:00Z",
+  "hostUserId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS85M2Y2NmFlOC0xMjU4LTQxZjgtYjIzMS1jM2UyOWFjMzNiYzI",
+  "hostDisplayName": "Christopher James Jasmin",
+  "hostEmail": "ceejaynimsaj@gmail.com",
+  "hostKey": "859234",
+  "siteUrl": "meet67.webex.com",
+  "webLink": "https://meet67.webex.com/meet67/j.php?MTID=m891aef7acaca1679a3e7b8b6a948e938",
+  "sipAddress": "26408776209@meet67.webex.com",
+  "dialInIpAddress": "210.4.202.4",
+  "enabledAutoRecordMeeting": false,
+  "allowAuthenticatedDevices": false,
+  "enabledJoinBeforeHost": false,
+  "joinBeforeHostMinutes": 0,
+  "enableConnectAudioBeforeHost": false,
+  "excludePassword": false,
+  "publicMeeting": false,
+  "enableAutomaticLock": false,
+  "telephony": {
+    "accessCode": "26408776209",
+    "callInNumbers": [],
+    "links": [
+      {
+        "rel": "globalCallinNumbers",
+        "href": "/v1/meetings/4bd606d24843476fb80ec3ca5b229efd/globalCallinNumbers",
+        "method": "GET"
+      }
+    ]
+  }
+}
+
+{
+  "id": "6a205eae1e1549d1b0f3db364f7cfc88",
+  "meetingNumber": "26421629402",
+  "title": "API",
+  "agenda": "Comp6 Examination",
+  "password": "TPjaWwVB335",
+  "phoneAndVideoSystemPassword": "87529982",
+  "meetingType": "meetingSeries",
+  "state": "active",
+  "timezone": "UTC",
+  "start": "2021-10-22T09:00:00Z",
+  "end": "2021-10-22T12:00:00Z",
+  "hostUserId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS85M2Y2NmFlOC0xMjU4LTQxZjgtYjIzMS1jM2UyOWFjMzNiYzI",
+  "hostDisplayName": "Christopher James Jasmin",
+  "hostEmail": "ceejaynimsaj@gmail.com",
+  "hostKey": "445023",
+  "siteUrl": "meet67.webex.com",
+  "webLink": "https://meet67.webex.com/meet67/j.php?MTID=m71d2fce7dc1e934d95a4ba4312ba1231",
+  "sipAddress": "26421629402@meet67.webex.com",
+  "dialInIpAddress": "210.4.202.4",
+  "enabledAutoRecordMeeting": false,
+  "allowAuthenticatedDevices": false,
+  "enabledJoinBeforeHost": false,
+  "joinBeforeHostMinutes": 0,
+  "enableConnectAudioBeforeHost": false,
+  "excludePassword": false,
+  "publicMeeting": false,
+  "enableAutomaticLock": false,
+  "telephony": {
+    "accessCode": "26421629402",
+    "callInNumbers": [],
+    "links": [
+      {
+        "rel": "globalCallinNumbers",
+        "href": "/v1/meetings/6a205eae1e1549d1b0f3db364f7cfc88/globalCallinNumbers",
+        "method": "GET"
+      }
+    ]
+  }
+}
